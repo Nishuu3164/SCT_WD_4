@@ -28,7 +28,7 @@ h1{
     justify-content: space-evenly;
     text-align: center;
     gap: 5rem;
-    padding: 1rem; /* Add padding for better spacing */
+    padding: 1rem; 
     box-sizing: border-box;
     transition: border-top-right-radius 0.5s, border-top-left-radius 0.5s, transform 0.5s;
 }
@@ -51,7 +51,7 @@ h1{
 
 h2 {
     text-align: center;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Cpmfortaa', cursive;
     color: #08440b;
     position: relative;
     display: inline-block;
