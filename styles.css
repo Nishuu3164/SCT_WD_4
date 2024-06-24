@@ -16,6 +16,8 @@ h1{
 
 }
 
+
+
 .container {
     background: rgba(10, 97, 7, 0.808);
     border-top-right-radius: 50px;
@@ -37,16 +39,8 @@ h1{
     display: none;
 }
 
-.container::after{
-    border-top-right-radius: 0px;
-    border-top-left-radius: 0px;
-}
 
-.container.scrolled {
-    border-top-right-radius: 0px;
-    border-top-left-radius: 0px;
-    transform: scale(1.05);
-}
+
 
 
 h2 {
@@ -191,6 +185,8 @@ footer{
 
 
 
+
+
 /*     responsive       */
 
 @media (max-width: 768px) {
@@ -202,6 +198,11 @@ footer{
         justify-content: flex-start;
         gap: 2rem;
         padding: 1rem;
+    }
+
+    footer p{
+        margin: 0;
+        color: #000;
     }
 
 }
