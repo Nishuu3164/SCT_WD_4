@@ -26,8 +26,8 @@ The goal is to create a To-Do list website that provides user to add and delete 
 + **Javascript**
 
 # How to access
-Visit the live site: [Task Tracker](https://Nishuu3164.github.io/SCT_WD_3)
+Visit the live site: [Task Tracker](https://Nishuu3164.github.io/SCT_WD_4)
 
 # clone
 ```sh
-git clone https://github.com/Nishuu3164/SCT_WD_3.git
+git clone https://github.com/Nishuu3164/SCT_WD_4.git
